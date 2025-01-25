@@ -1,3 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Mission3;
 
-Console.WriteLine("Hello, World!");
+namespace FoodBankInventorySystem
+{
+    class MainProgram1
+    {
+        static void Main(string[] args)
+        {
+            Program.Run();
+        }
+    }
+}
